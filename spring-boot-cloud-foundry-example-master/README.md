@@ -12,7 +12,7 @@ Using the following endpoints, different operations can be achieved:
  - `/users/name/{name}` - This returns the details of the Users passed in URL
  - `/users/load` - Add new users using the Users model. 
     eg. `{
-        "name": "Ajay",
+        "name": "varun",
         "teamName": "Development",
         "salary": 100
         }`
